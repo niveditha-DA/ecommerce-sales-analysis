@@ -39,6 +39,35 @@ The objective of this project is to **clean and validate the dataset**, perform 
 
 ---
 
+## 📂 Project Structure
+
+The project follows a structured workflow for data analysis:
+
+1. **data/**  
+   Contains the raw CSV dataset used for analysis:  
+   [View raw dataset](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/data/raw_data.csv)
+
+
+2. **sql/**  
+   Includes SQL scripts for:
+   - Data cleaning → [data_cleaning.sql](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/sql/data_cleaning.sql)
+   - Data quality checks → [data_cleaning_checks.sql](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/sql/data_cleaning_checks.sql)
+   - Exploratory Data Analysis (EDA) → [eda.sql](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/sql/eda.sql)
+   - Business analysis queries → [business_questions.sql](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/sql/Business_questions.sql)
+
+3. **images/**  
+   Stores dashboard screenshots used in documentation:
+   - [Overview Dashboard](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/images/dashboard_overview.png)
+   - [Risk Analysis Dashboard](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/images/dashboard_risk.png)
+   - [Risk Analysis Dashboard (Profit)](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/images/dashboard_risk1.png)
+
+4. **powerbi/**  
+   Contains the Power BI dashboard file:  
+   [Download Power BI dashboard](https://github.com/niveditha-DA/ecommerce-sales-analysis/blob/main/powerbi/ecommerce_sales_project.pbix)
+
+
+---
+
 ## Project Workflow
 1. Imported raw CSV data into MySQL  
 2. Performed **data cleaning**:
