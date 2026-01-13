@@ -46,7 +46,7 @@ The dashboard provides business insights through:
 - Discount and Profit Risk Analysis  
 
 
-An interactive Power BI dashboard (Overview,  Risk Analysis pages) can be downloaded [here](powerbi/ecommerce_sales_project.pbix)
+An interactive Power BI dashboard (Overview,  Risk Analysis pages) can be downloaded [here](https://github.com/niveditha-DA/ecommerce-sales-analysis/raw/main/powerbi/ecommerce_sales_project.pbix)
 
 ### The SQL queries used for EDA and preprocessing can be found in:
 Initial Data Checks: [here](sql/data_cleaning_checks.sql)
